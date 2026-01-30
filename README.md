@@ -26,7 +26,7 @@ exit
 
 ## Tasks
 
-TODO: Trying PAT
+TODO: Trying PAT for merging
 
 ## License
 
